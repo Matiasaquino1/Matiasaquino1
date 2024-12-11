@@ -15,23 +15,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## LinkList
 
-- https://github.com/MayderC/linklist-frontend
-- Online: https://fierce-lowlands-38911.herokuapp.com/
 
-<img src="https://github.com/MayderC/linklist-frontend/blob/main/login.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/insert.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/list.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
 
-## Mychat
-
-- https://github.com/MayderC/w-chat-frontend
-- Online: https://frosty-mayer-9c261d.netlify.app/
-
-<img src="https://raw.githubusercontent.com/MayderC/w-chat-frontend/app-chat/home.png">
-<img src="https://raw.githubusercontent.com/MayderC/w-chat-frontend/app-chat/auth.png">
-<img src="https://raw.githubusercontent.com/MayderC/w-chat-frontend/app-chat/chat.png">
 
 
 
