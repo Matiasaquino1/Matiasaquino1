@@ -33,52 +33,7 @@
 <img src="https://raw.githubusercontent.com/MayderC/w-chat-frontend/app-chat/auth.png">
 <img src="https://raw.githubusercontent.com/MayderC/w-chat-frontend/app-chat/chat.png">
 
-### DevFinder -Vuejs
 
-- https://github.com/MayderC/devfinder
-- Online: https://may-devfinder.netlify.app/
-
-<img src="https://raw.githubusercontent.com/MayderC/devfinder/main/home.PNG" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/devfinder/main/2.PNG" width="" style="border-radius: 15px;">
-
-
-### Rick And Morty App - Vuejs
-
-- https://github.com/MayderC/rick-morty-frontend-vue
-- Online:  https://mayderc-rick-and-morty.netlify.app/
-
-<img src="https://raw.githubusercontent.com/MayderC/MayderC/main/home.PNG" alt="MayderC rickandmorty" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/MayderC/main/character.PNG" alt="MayderC rickandmorty" width="" style="border-radius: 15px;">
-
-
-### TaskList - Vuejs
-
-- https://github.com/MayderC/taskapp-frontend
-- Online: https://tasskapp.netlify.app/#/
-
-<img src="https://raw.githubusercontent.com/MayderC/taskapp-frontend/main/home.PNG" alt="MayderC task" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/insert.png" alt="MayderC task" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/list.png" alt="MayderC task" width="" style="border-radius: 15px;">
-
-## Github projects :octocat:
-
-### Ip Addres Tracker
-- https://github.com/MayderC/ip-addres-tracker
-
-<img src="https://camo.githubusercontent.com/e98e270c8dc7d03afe0180a6f272ff6d31aa0c692f11d3b0e8f0d466417fa2f9/68747470733a2f2f692e696d6775722e636f6d2f554c774e494a472e706e67" width="" style="border-radius: 15px;">
-
-### vuejs-shop-example
-- https://github.com/MayderC/vuejs-shop-example
-
-![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shopwhite.PNG)
-
-![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shop.png)
-
-### Profile Card
-- This is a challenge from https://www.frontendmentor.io/
-- https://github.com/MayderC/profile-card-component
-
-<img src="https://camo.githubusercontent.com/d601264322d26f8316b58591b9fd5787220e283832360be9fd7eef96f7706773/68747470733a2f2f692e696d6775722e636f6d2f5a356d49534f772e706e67" width="" style="border-radius: 15px;">
 
 <!--
 **Matiasaquino1/Matiasaquino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
